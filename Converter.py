@@ -14,7 +14,7 @@ window_width = 400
 window_height = 250
 #window.resizable(False, False)
 window.minsize(width= window_width, height= window_height)
-window.iconbitmap("/punisher_logo.ico")
+window.iconbitmap("Image_to_icon_converter\punisher_logo.ico")
 
 # get the screen dimension
 screen_width = window.winfo_screenwidth()
