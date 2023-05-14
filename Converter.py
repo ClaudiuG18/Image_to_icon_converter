@@ -14,7 +14,7 @@ window_width = 400
 window_height = 250
 #window.resizable(False, False)
 window.minsize(width= window_width, height= window_height)
-window.iconbitmap("C:/Users/Claudiu/Desktop/New folder/xxxxx.ico")
+window.iconbitmap("/punisher_logo.ico")
 
 # get the screen dimension
 screen_width = window.winfo_screenwidth()
